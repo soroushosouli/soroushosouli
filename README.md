@@ -2,7 +2,7 @@
 
 Interested in networking, systems, software development, and infrastructure.
 
-## Currently Learning
+## I'm Into
 
 * Linux
 * Networking
