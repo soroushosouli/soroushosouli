@@ -1,16 +1,18 @@
-# Im Soroush
+# Hello, Im Soroush
 
-Interested in computer systems, networking, algorithms, and software development.
+Interested in networking, systems, software development, and infrastructure.
 
 ## Focus Areas
 
+* Linux
 * Networking
-* Linux & Servers
-* Algorithms & Problem Solving
+* Servers & Self-Hosting
 * Python
 * JavaScript
+* Algorithms & Problem Solving
 * Cybersecurity
+* DevOps Fundamentals
 
 ## About
 
-Most of my repositories are learning projects, experiments, algorithms, networks, and software work.
+I enjoy learning how software, networks, and systems work together. Most repositories here are personal projects, experiments, and learning exercises.
