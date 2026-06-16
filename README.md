@@ -1,16 +1,16 @@
-## Hi there 👋
+# Im Soroush
 
-<!--
-**soroushosouli/soroushosouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in computer systems, networking, algorithms, and software development.
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Networking
+* Linux & Servers
+* Algorithms & Problem Solving
+* Python
+* JavaScript
+* Cybersecurity
+
+## About
+
+Most of my repositories are learning projects, experiments, algorithms, networks, and software work.
