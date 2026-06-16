@@ -1,8 +1,8 @@
-# Hello, Im Soroush
+# Hello, I'm Soroush
 
 Interested in networking, systems, software development, and infrastructure.
 
-## Focus Areas
+## Currently Learning
 
 * Linux
 * Networking
@@ -11,7 +11,7 @@ Interested in networking, systems, software development, and infrastructure.
 * JavaScript
 * Algorithms & Problem Solving
 * Cybersecurity
-* DevOps Fundamentals
+* DevOps
 
 ## About
 
