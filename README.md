@@ -4,14 +4,10 @@ Interested in networking, systems, software development, and infrastructure.
 
 ## I'm Into
 
-* Linux
-* Networking
-* Servers & Self-Hosting
-* Python
-* JavaScript
+* Linux, Networking & Servers
+* Python, JavaScript
+* Java  
 * Algorithms & Problem Solving
-* Cybersecurity
-* DevOps
 
 ## About
 
