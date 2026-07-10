@@ -6,7 +6,7 @@ Interested in networking, systems, software development, and infrastructure.
 
 * Linux, Networking & Servers
 * Python, JavaScript
-* Java  
+* Backend Development 
 * Algorithms & Problem Solving
 
 ## About
