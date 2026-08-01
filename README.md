@@ -12,3 +12,5 @@ Interested in networking, systems, software development, and infrastructure.
 ## About
 
 I enjoy learning how software, networks, and systems work together. Most repositories here are personal projects, experiments, and learning exercises.
+
+🌱 Fun fact : I Love Physics !
