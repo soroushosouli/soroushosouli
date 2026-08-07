@@ -1,4 +1,4 @@
-# Hello, I'm Soroush
+# Hello, I'm Soroush 👋
 
 Interested in networking, systems, software development, and infrastructure.
 
