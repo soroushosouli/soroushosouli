@@ -21,7 +21,7 @@ I enjoy learning how software, networks, and systems work together. The reposito
 
 ### 🌱 Fun Fact
 
-I love Physics ⚛️
+I am currently a student with a strong interest in physics and mathematics, and I work on projects related to these subjects.
 
 ---
 
